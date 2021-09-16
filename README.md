@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VerusYEJ
-- 👀 I’m interested in ...
+- 👀 I’m interested in Study
 - 🌱 I’m currently learning Html/CSS/javaScript/PHP/Database
 - 💞️ I’m looking to collaborate on idk 
 - 📫 How to reach me idk
