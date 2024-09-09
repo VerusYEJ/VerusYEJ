@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VerusYEJ
+- 👋 Hi, I’m @Ernest
 - 👀 I’m interested in Study
 - 💞️ I’m looking to collaborate on group projects
 - 📫 How to reach me email jurekoernest@gmail.com
